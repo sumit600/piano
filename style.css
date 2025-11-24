@@ -1,0 +1,17 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+html,
+body {
+height: 100%;
+width: 100%;
+background: black;
+}
+.keys{
+    height: 90px;
+    width: 10px;
+    background: white;
+}

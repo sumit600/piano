@@ -10,8 +10,18 @@ height: 100%;
 width: 100%;
 background: black;
 }
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    gap: 5px;
+    justify-content: center ;
+    align-items: center;
+}
 .keys{
-    height: 90px;
-    width: 10px;
+    height: 200px;
+    width: 30px;
     background: white;
+    
+
 }

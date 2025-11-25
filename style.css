@@ -25,3 +25,6 @@ background: black;
     
 
 }
+.keys:active{
+    scale: 0.9;
+}
